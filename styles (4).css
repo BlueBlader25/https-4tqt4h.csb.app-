@@ -16,3 +16,24 @@ p {
 img {
   width: 32%;
 }
+nav {
+  background-color:(87, 63, 22);
+  padding: 15px;
+  text-align: center;
+  border-radius: 10px;
+  margin-bottom: 25px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0 20px;
+  padding: 10px 15px;
+  border-radius: 6px;
+}
+
+nav a:hover {
+  background-color: rgb(35, 90, 55);
+}
